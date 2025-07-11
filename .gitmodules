@@ -1,0 +1,3 @@
+[submodule "Packages/com.github.filipclavin.gameplay-grid"]
+	path = Packages/com.github.filipclavin.gameplay-grid
+	url = https://github.com/filipclavin/gameplay-grid
